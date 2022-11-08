@@ -1,0 +1,15 @@
+#navbarSupportedContent a {
+	text-decoration: none;
+	color: #444;
+	display: block;
+	padding: 1rem;
+}
+.navbar-brand {
+	font-family: $fontLogo;
+	font-size: 3.5rem;
+	color: #574d7f !important;
+}
+
+.navbar-light .navbar-brand {
+	font-size: 55px;
+}
